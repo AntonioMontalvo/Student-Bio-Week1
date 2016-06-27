@@ -1,0 +1,45 @@
+
+body{
+	    background-color: beige;
+}
+h1 {
+	font-size: 32px;
+	text-align: center;
+	padding-top: 10px;
+	padding-bottom: 10px;
+	background-color: black;
+	color: lightgrey;
+	margin: 0;
+}
+
+h2 {
+	margin-top: 15px;
+}
+img {
+	float: left;
+	 margin-left: 50px;
+}
+p {
+	color: darkgrey;
+	float: left;
+	margin-left: 2%;
+	width: 300px;
+	margin-top: 0;
+}
+a {
+	color: red;
+}
+.main {
+	overflow: auto;
+	}
+.name {
+  width: 200px;
+  margin: 20px 55px;
+  display: inline-block;
+ }   
+.contact {
+	float: right;
+	margin-right: 10%;
+	margin-top: inherit;
+
+}
